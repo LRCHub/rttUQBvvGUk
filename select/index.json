@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "流行",
+  "base_artist": "Sheena Ringo",
+  "createdAt": "2025-12-01T14:16:30.328413Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "流行",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/01_流行_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "流行",
+      "artist": "Sheena Ringo",
+      "has_synced": false,
+      "path": "select/02_流行_Sheena_Ringo.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "流行",
+      "artist": "椎名林檎",
+      "has_synced": false,
+      "path": "select/03_流行_椎名林檎.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "流行",
+      "artist": "Shiina Ringo",
+      "has_synced": false,
+      "path": "select/04_流行_Shiina_Ringo.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "流行",
+      "artist": "李宇春",
+      "has_synced": true,
+      "path": "select/05_流行_李宇春.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "流行のクルマ",
+      "artist": "ザ・クロマニヨンズ",
+      "has_synced": false,
+      "path": "select/pl_01_流行のクルマ_ザ・クロマニヨンズ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "流行",
+      "artist": "ザ・クロマニヨンズ",
+      "has_synced": false,
+      "path": "select/pl_02_流行_ザ・クロマニヨンズ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "流行りのバンドのボーカルの男みんな声高い",
+      "artist": "ザ・クロマニヨンズ",
+      "has_synced": false,
+      "path": "select/pl_03_流行りのバンドのボーカルの男みんな声高い_ザ・クロマニヨンズ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "流行りのバンドのボーカルの男みんな声高い",
+      "artist": "ザ・クロマニヨンズ",
+      "has_synced": false,
+      "path": "select/pl_04_流行りのバンドのボーカルの男みんな声高い_ザ・クロマニヨンズ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "流行",
+      "artist": "ザ・クロマニヨンズ",
+      "has_synced": false,
+      "path": "select/pl_05_流行_ザ・クロマニヨンズ.txt"
+    }
+  ]
+}
